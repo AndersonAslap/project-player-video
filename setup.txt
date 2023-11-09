@@ -8,3 +8,4 @@
 - npm i lucide-react
 - npm i react-player
 - npm i --save-dev tailwind-scrollbar (configurar taiwind config)
+- npm i @radix-ui/react-collapsible
