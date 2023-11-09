@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 body {
-  -webkit-font-smoothing: antialiase
+  -webkit-font-smoothing: antialiased;
 }

@@ -5,3 +5,4 @@
 - npm install -D tailwindcss postcss autoprefixer
 - npx tailwindcss init
 - npx tailwindcss init -p (quando se ultiliza o vite para criar a aplicação)
+- npm i lucide-react
