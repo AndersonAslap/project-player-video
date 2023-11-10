@@ -1,4 +1,8 @@
+node: 20.2.0
+npm: 9.6.6
+
 - npm create vite@latest <nome-projeto> --use-npm 
+- cd <nome-projeto>
 - npm i 
 - npm i @reduxjs/toolkit 
 - npm i react-redux 
@@ -10,3 +14,5 @@
 - npm i --save-dev tailwind-scrollbar (configurar taiwind config)
 - npm i @radix-ui/react-collapsible
 - npm i vitest -D
+- npm i json-server -D
+- npm i axios
