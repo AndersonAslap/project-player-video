@@ -11,8 +11,6 @@ export function Video() {
     return currentLesson;
   })
 
-  console.log(`https://www.youtube.com/watch?v=${video.id}`)
-
   return (
     <div className="flex-1">
       <div className="w-full bg-zinc-950 aspect-video">
